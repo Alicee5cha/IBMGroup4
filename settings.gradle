@@ -1,2 +1,1 @@
-include ':app'
-rootProject.name='IBM Conference Manager'
+include ':example', ':library'
